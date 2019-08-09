@@ -1,2 +1,3 @@
 # AR_myanimal
-Unity &amp; C#
+Unity &amp; C# &amp; Vuforia \n
+with hyunjoo
